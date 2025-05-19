@@ -190,6 +190,19 @@ These augmentations help the model generalize better, reduce overfitting, and ha
 
 ---
 
+## Screenshots
+
+### Sign-Up / Log-In Screen
+![Sign-Up_Log-In_Screen](https://github.com/user-attachments/assets/f56a96e1-dcec-471d-a78e-53f5b2e68654)
+
+### Classes Screen
+![Classes Screen](https://github.com/user-attachments/assets/92cb8c5f-ddc8-4564-b0bd-daf05618df2f)
+
+### Students Screen
+![Students Screen](https://github.com/user-attachments/assets/55d6ded2-9180-4dd3-8a40-87b1aeb870ca)
+
+---
+
 ## Requirements
 
 - Python 3.8 or higher
